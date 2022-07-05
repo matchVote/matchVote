@@ -20,7 +20,7 @@ gem "pg_search", "~> 0.7.9"
 gem "puma", "3.10.0"
 gem "pundit", "~> 1.0.0"
 gem "rails", "4.2.10"
-gem "rails-html-sanitizer", "~> 1.0.1"
+gem "rails-html-sanitizer", "~> 1.4.3"
 gem "react-rails", "~> 1.5.0"
 gem "sass-rails", "~> 5.0.1"
 gem "sdoc", "~> 0.4.0", group: :doc
